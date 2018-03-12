@@ -1,0 +1,11 @@
+#B5F26B   amarillo
+
+#0C9E9E   azul claro
+
+#6E9898  gris
+
+#073E6E     azul marino
+
+#f90808   rojo
+
+center, center;
